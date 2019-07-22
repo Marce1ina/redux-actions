@@ -1,6 +1,6 @@
 import uuid from "uuid";
 
-const ACTION_TYPES = {
+export const ACTION_TYPES = {
     ADD_COMMENT: "ADD_COMMENT",
     REMOVE_COMMENT: "REMOVE_COMMENT",
     EDIT_COMMENT: "EDIT_COMMENT",
